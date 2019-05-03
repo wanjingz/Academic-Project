@@ -1,4 +1,4 @@
-# Parks and Trails in Seattle
+### Parks and Trails in Seattle
 
 This is an exploratory data analysis(EDA) project for park trail features in Seattle, WA. Key analysis procedures include: data wrangling,
 outlier detection and treament, Vector Space modeling application in surface type classification, PCA and clustering analysis as well as 
