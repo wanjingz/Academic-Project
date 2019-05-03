@@ -7,4 +7,6 @@ map visualizations. The project was originally completed in Rmarkdown (see the .
 
 [Parks and Trails Project - (R version)](http://htmlpreview.github.io/?https://github.com/wanjingz/Academic-Projects/blob/master/Parks%20and%20Trails/Project2_Jingzhe_Wang.html)
 
+[Parks and Trails Project - (Python version for the key steps)](https://github.com/wanjingz/Academic-Projects/blob/master/Parks%20and%20Trails/Park%20Trail%20Project%20in%20Python.ipynb)
+
 
