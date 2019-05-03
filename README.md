@@ -5,6 +5,6 @@ outlier detection and treament, Vector Space modeling application in surface typ
 map visualizations. The project was originally completed in Rmarkdown (see the .html file output from Rmarkdown). I also replicated the key steps in python (see the .ipynb file) for learning and practice purpose. 
 
 
-[Parks and Trails Project - R (version)](https://github.com/wanjingz/Academic-Projects/blob/master/Parks%20and%20Trails/Project2_Jingzhe_Wang.html)
+[Parks and Trails Project - R (version)](http://htmlpreview.github.io/?https://github.com/wanjingz/Academic-Projects/blob/master/Parks%20and%20Trails/Project2_Jingzhe_Wang.html)
 
 
