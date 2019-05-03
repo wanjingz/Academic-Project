@@ -1,5 +1,3 @@
-# Academic-Project
-
 ## Parks and Trails
 
 This is an exploratory data analysis(EDA) project for park trail features in Seattle, WA. Key analysis procedures include: data wrangling,
@@ -8,4 +6,3 @@ map visualizations. The project was originally completed in Rmarkdown (see the .
 steps in python (see the .ipynb file) for learning and practice purpose. 
 
 
-### Keep updating.
