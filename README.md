@@ -15,7 +15,7 @@ Key analysis procedures include: data wrangling, outlier detection and treament,
 
 This is another exploratory data analysis project about farm sites related attributes. The area of interest (AOI) was selected in the mountain area of Mayaguez, Puerto Rico. The project was motivated by the devastating hurricane hits to Puerto Rico occured in 2017. Thinking that organic farming practice could help enhance the resilient capacity and relieve local unemployment rate, it is of great value to study the organic farm related attributes and filter out those most critical ones to support potential organic farm sites selection. However, it is noteworthy that there were not a lot public available data correspond to strict 'organic' farm sites for the selected AOI. Thus, my analysis then switched to explore and compare the features between farm sites and non-farm sites, which was still considered meaningful for checking some preliminary results.
 
-Key analysis procedures include: data preprocessing using ArcMap, single decision tree and bagging method.
+Key analysis procedures include: data preprocessing using ArcMap, single decision tree and bagging method in R.
 
 [Farm Sites Features Exploration Project - (R version)](https://github.com/wanjingz/Academic-Projects/blob/master/Farm%20Sites%20Features%20Exploration/farm_sites_attributes_project.pdf)
 
