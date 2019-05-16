@@ -17,6 +17,6 @@ This is another exploratory data analysis project about farm sites related attri
 
 Key analysis procedures include: data preprocessing using ArcMap, single decision tree and bagging method.
 
-[Farm Sites Features Exploration Project - (R version)](http://htmlpreview.github.io/?https://github.com/wanjingz/Academic-Projects/blob/master/Farm%20Sites%20Features%20Exploration/farm_sites_attributes_project.pdf)
+[Farm Sites Features Exploration Project - (R version)](https://github.com/wanjingz/Academic-Projects/blob/master/Farm%20Sites%20Features%20Exploration/farm_sites_attributes_project.pdf)
 
-[Farm Sites Features Exploration Project - (PowerPoint)](http://htmlpreview.github.io/?https://github.com/wanjingz/Academic-Projects/blob/master/Farm%20Sites%20Features%20Exploration/farm_sites_attributes_ppt.pdf)
+[Farm Sites Features Exploration Project - (PowerPoint)](https://github.com/wanjingz/Academic-Projects/blob/master/Farm%20Sites%20Features%20Exploration/farm_sites_attributes_ppt.pdf)
