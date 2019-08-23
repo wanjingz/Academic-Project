@@ -1,3 +1,9 @@
+### Predictive Methods for Large Geostatistical Data
+
+Geostatistical predictive analysis conducts spatial interpolations to unobserved location points based on the observed attribute values at other locations. As large amounts of geospatial data become more accessible and an increasing demand for large spatial data analysis has been realized, classical methods for geostatistical analysis are challenged by the greater computational complexity. Heaton et al.
+(2018) have gathered twelve different approaches for large geostatistical interpolations in a case study competition and compared their prediction performances as well as required computational resources. This study aimed to (1) provide a brief review of the twelve predictive methods from Heaton et al. (2018), (2) replicate the twelve methods on a simulated satellite image used by Heaton et al. (2018), (3) interpolate the missing values of a new large spatial dataset using two of the methods, Nearest Neighbor Gaussian Processes - Conjugate (NNGP Conjugate) and Fixed Rank Kriging (FRK), and (4) provide a further step of evaluating the prediction performances of NNGP Conjugate at some hold-out locations in the new dataset.
+
+
 ### Parks and Trails in Seattle
 
 This is an exploratory spatial data analysis(ESDA) project for park trail features in Seattle, WA. The analysis results might serve as a valuable reference for local planners to see how park trail conditions could interact with other location-related attributes and find out those potentially interesting regions easily. The project intended to help local planning agencies effectively allocate and update the associated recreational resources.
