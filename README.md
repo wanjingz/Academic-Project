@@ -10,7 +10,7 @@ To read the full paper, please [click here](https://github.com/wanjingz/Academic
 
 This is an exploratory spatial data analysis(ESDA) project for park trail features in Seattle, WA. The analysis results might serve as a valuable reference for local planners to see how park trail conditions could interact with other location-related attributes and find out those potentially interesting regions easily. The project intended to help local planning agencies effectively allocate and update the associated recreational resources.
 
-Key analysis procedures include: data wrangling, outlier detection and treament, Vector Space modeling application in surface type classification, PCA and clustering analysis as well as map visualizations. The project was originally completed in Rmarkdown (see the .html file output from Rmarkdown). I also replicated the key steps in python (see the .ipynb file) for learning and practice purpose. 
+Key analysis procedures include: data wrangling, outlier detection and treatment, Vector Space modeling application in surface type classification, PCA and clustering analysis as well as map visualizations. The project was originally completed in Rmarkdown (see the .html file output from Rmarkdown). I also replicated the key steps in python (see the .ipynb file) for learning and practice purpose. 
 
 
 [Parks and Trails Project - (R version)](http://htmlpreview.github.io/?https://github.com/wanjingz/Academic-Projects/blob/master/Parks%20and%20Trails/Project2_Jingzhe_Wang.html), with a 4-by-4 'Map Matrix' created at the end of the document.
