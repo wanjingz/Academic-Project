@@ -19,6 +19,8 @@ Key analysis procedures include: data wrangling, outlier detection and treatment
 
 [A Static Map for Trail Grade Types](https://github.com/wanjingz/Academic-Projects/blob/master/Parks%20and%20Trails/Seattle%20Parks%20and%20Trails%20Static%20Map.pdf)
 
+[中文版演示文稿](https://github.com/wanjingz/Academic-Projects/blob/master/Parks%20and%20Trails/%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%85%AC%E5%9B%AD%E6%B8%B8%E6%86%A9%E8%B5%84%E6%BA%90%E6%8E%A2%E7%B4%A2%E5%88%86%E6%9E%90.pdf)
+
 ### Farm Sites Features Exploration Project
 
 This is another exploratory data analysis project about farm sites related attributes. The area of interest (AOI) was selected in the mountain area of Mayaguez, Puerto Rico. The project was motivated by the devastating hurricane hits to Puerto Rico occured in 2017. Thinking that organic farming practice could help enhance the resilient capacity and relieve local unemployment rate, it is of great value to study the organic farm related attributes and filter out those most critical ones to support potential organic farm sites selection. However, it is noteworthy that there were not a lot public available data correspond to strict 'organic' farm sites for the selected AOI. Thus, my analysis then switched to explore and compare the features between farm sites and non-farm sites, which was still considered meaningful for checking some preliminary results.
