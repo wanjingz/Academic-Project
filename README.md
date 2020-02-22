@@ -19,7 +19,7 @@ Key analysis procedures include: data wrangling, outlier detection and treatment
 
 [A Static Map for Trail Grade Types](https://github.com/wanjingz/Academic-Projects/blob/master/Parks%20and%20Trails/Seattle%20Parks%20and%20Trails%20Static%20Map.pdf)
 
-[中文版演示文稿](https://github.com/wanjingz/Academic-Projects/blob/master/Parks%20and%20Trails/%E8%A5%BF%E9%9B%85%E5%9B%BE%E5%85%AC%E5%9B%AD%E6%B8%B8%E6%86%A9%E8%B5%84%E6%BA%90%E6%8E%A2%E7%B4%A2%E5%88%86%E6%9E%90.pdf)
+[中文版演示文稿](https://github.com/wanjingz/Academic-Projects/tree/master/Parks%20and%20Trails)
 
 ### Farm Sites Features Exploration Project
 
